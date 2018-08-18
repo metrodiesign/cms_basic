@@ -1,8 +1,8 @@
 -- MySQL Workbench Synchronization
 -- Generated: 2018-08-18 11:34
--- Model: New Model
+-- Model: admin_user
 -- Version: 1.0
--- Project: Name of the project
+-- Project: CMS BASIC
 -- Author: Supachai
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
